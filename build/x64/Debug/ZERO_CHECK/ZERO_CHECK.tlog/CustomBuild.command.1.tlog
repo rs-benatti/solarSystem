@@ -1,0 +1,10 @@
+^C:\USERS\USER\SOURCE\REPOS\TP00\SRC\BUILD\CMAKEFILES\068DF8E07492280D5B6FBC8BA0FAFB7D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/User/source/repos/TP00/src -BC:/Users/User/source/repos/TP00/src/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/User/source/repos/TP00/src/build/tpOpenGL.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

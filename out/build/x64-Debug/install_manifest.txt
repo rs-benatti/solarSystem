@@ -1,0 +1,8 @@
+C:/Users/User/source/repos/TP00/src/out/install/x64-Debug/include/GLFW/glfw3.h
+C:/Users/User/source/repos/TP00/src/out/install/x64-Debug/include/GLFW/glfw3native.h
+C:/Users/User/source/repos/TP00/src/out/install/x64-Debug/lib/cmake/glfw3/glfw3Config.cmake
+C:/Users/User/source/repos/TP00/src/out/install/x64-Debug/lib/cmake/glfw3/glfw3ConfigVersion.cmake
+C:/Users/User/source/repos/TP00/src/out/install/x64-Debug/lib/cmake/glfw3/glfw3Targets.cmake
+C:/Users/User/source/repos/TP00/src/out/install/x64-Debug/lib/cmake/glfw3/glfw3Targets-debug.cmake
+C:/Users/User/source/repos/TP00/src/out/install/x64-Debug/lib/pkgconfig/glfw3.pc
+C:/Users/User/source/repos/TP00/src/out/install/x64-Debug/lib/glfw3.lib
