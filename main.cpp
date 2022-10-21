@@ -530,7 +530,7 @@ int main(int argc, char** argv) {
         M = glm::translate(vec3CenterLua);
 
         rotateMatrix = glm::rotate(glm::radians(spinAngleTerra), glm::vec3(0.0f, 1.0f, 0.0f));
-        rotateMatrix = rotateMatrix * glm::rotate(glm::radians(0.0f), glm::vec3(0.0f, 0.0f, 1.0f));
+        rotateMatrix = rotateMatrix * glm::rotate(glm::radians(23.5f), glm::vec3(0.0f, 0.0f, 1.0f));
         M = M * rotateMatrix;
 
         transformationMatrix = projMatrix * viewMatrix * M;
